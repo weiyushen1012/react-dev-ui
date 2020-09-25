@@ -1,0 +1,12 @@
+aside(class='menu app-menu card')
+  ul(class='menu-list')
+    li
+      a(class={ "is-active": route === 0, "": route !== 0 }, href='/dashboard')
+        span(class='app-menu-list-item')
+          i(class='material-icons') dashboard
+          span(class='app-menu-list-item-label') Dashboard
+
+      a(class={ "is-active": route === 1, "": route !== 1 }, href='dependencies')
+        span(class='app-menu-list-item')
+          i(class='material-icons') scatter_plot
+          span(class='app-menu-list-item-label') Dependencies

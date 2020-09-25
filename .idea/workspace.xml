@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6906622-0bee-4690-9339-c6ea0f56b126" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/library/bulma.custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/library/bulma.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/dependencies.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/common/head.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/common/menu.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/dashboard/index.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/dependencies/index.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/react-dev-ui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/react-dev-ui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/routes/dashboard.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/index.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="TypeScript File" />
+        <option value="Pug File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hyi7hcu0CdJcLlIgFuEGFT9xW4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="prettier.files.pattern" value="{**/*,*}.{js,ts,jsx,tsx,css,pug}" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/views/common" />
+      <recent name="$PROJECT_DIR$/views" />
+      <recent name="$PROJECT_DIR$/views/home" />
+      <recent name="$PROJECT_DIR$/public/css/library" />
+      <recent name="$PROJECT_DIR$/public/stylesheets" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="project init">
+      <created>1600865294688</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600865294688</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6906622-0bee-4690-9339-c6ea0f56b126" name="Default Changelist" comment="" />
+      <created>1600989567879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600989567879</updated>
+      <workItem from="1600989569251" duration="9218000" />
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="project init" />
+    <option name="LAST_COMMIT_MESSAGE" value="project init" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1305" height="266" key="GridCell.Tab.0.bottom" timestamp="1601009321212">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1305" height="266" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1601009321212" />
+    <state width="1305" height="266" key="GridCell.Tab.0.center" timestamp="1601009321211">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1305" height="266" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1601009321211" />
+    <state width="1305" height="266" key="GridCell.Tab.0.left" timestamp="1601009321211">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1305" height="266" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1601009321211" />
+    <state width="1305" height="266" key="GridCell.Tab.0.right" timestamp="1601009321212">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1305" height="266" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1601009321212" />
+    <state x="259" y="200" key="SettingsEditor" timestamp="1601005488464">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="259" y="200" key="SettingsEditor/0.23.1920.1057@0.23.1920.1057" timestamp="1601005488464" />
+    <state x="606" y="268" key="Vcs.Push.Dialog.v2" timestamp="1600865301172">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="606" y="268" key="Vcs.Push.Dialog.v2/0.23.1920.1057@0.23.1920.1057" timestamp="1600865301172" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1601003186077">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.23.1920.1057@0.23.1920.1057" timestamp="1601003186077" />
+  </component>
+</project>

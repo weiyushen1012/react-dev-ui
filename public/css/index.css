@@ -1,0 +1,11 @@
+:root {
+  --react-theme-color: #61dbfb;
+  --react-background-color: #282c34;
+  --light-background-color: #fafafa;
+  overflow: hidden;
+}
+
+body {
+  background: var(--react-background-color);
+  height: 100vh;
+}
